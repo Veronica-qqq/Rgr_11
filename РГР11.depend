@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1590767476 source:c:\users\Вероника\desktop\лабы\РГР11\main.cpp
+	<iostream>
+	<cstring>
+	"Phone.h"
+	<cstdlib>
+	<fstream>
+
+1590750414 c:\users\Вероника\desktop\лабы\РГР11\phone.h
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<fstream>
+
+1590767812 source:c:\users\Вероника\desktop\лабы\РГР11\phone.cpp
+	"Phone.h"
+
+1590917769 source:c:\users\Вероника\desktop\лабы\РГР11 - копия\main.cpp
+	<iostream>
+	"Phone.h"
+
+1591014914 c:\users\Вероника\desktop\лабы\РГР11 - копия\phone.h
+	<iostream>
+	<cstring>
+	<fstream>
+
+1591014914 source:c:\users\Вероника\desktop\лабы\РГР11 - копия\phone.cpp
+	"Phone.h"
+
